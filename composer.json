@@ -1,0 +1,22 @@
+{
+    "name": "hometest/shipping-service",
+    "description": "Help calculate a gross price for an order",
+    "authors": [
+        {
+            "name": "son le",
+            "email": "lehuuson2014@gmail.com@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "HomeTest\\": "src/",
+            "Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": "^7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

@@ -4,7 +4,7 @@
     "authors": [
         {
             "name": "son le",
-            "email": "lehuuson2014@gmail.com@gmail.com"
+            "email": "lehuuson2014@gmail.com"
         }
     ],
     "autoload": {
@@ -14,9 +14,9 @@
         }
     },
     "require": {
-        "php": "^7.4"
+        "php": ">=7.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.5"
+        "phpunit/phpunit": "^8.0"
     }
 }
